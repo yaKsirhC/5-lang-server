@@ -1,0 +1,4 @@
+Average request time: 44.545166ms c++
+Average request time: 43.596976ms rust
+Average request time: 1.838015ms nodejs
+Average request time: 45.503555ms python
